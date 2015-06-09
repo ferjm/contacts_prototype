@@ -1,7 +1,7 @@
 {
   "name": "Contacts prototype",
   "description": "Contacts prototype",
-  "launch_path": "/index.html",
+  "launch_path": "/contacts_prototype/index.html",
   "type": "privileged",
   "developer": {
     "name": "The Gaia Team",
